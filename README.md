@@ -1,8 +1,7 @@
 # Cardkb-2-pi
 Use the cardkb from m5stack over i2c with the raspberry pi
-![yd3gr9_6e824cac06cb8ed7b7c7384205168f27c0df57f4](https://github.com/Artfuldodger808/Cardkb-2-pi/assets/146889928/d5131fae-60a7-4e24-b1e3-597b5c207c98)
-![ookpmc_6c723b2c79c6f8d7272078c241c6967f903a596e](https://github.com/Artfuldodger808/Cardkb-2-pi/assets/146889928/bb6e8ec3-86fb-4191-97b8-dc3d24ebff67)
-
+https://github.com/Artfuldodger808/Cardkb-2-pi/blob/main/ookpmc_6c723b2c79c6f8d7272078c241c6967f903a596e.jpg
+https://github.com/Artfuldodger808/Cardkb-2-pi/blob/main/yd3gr9_6e824cac06cb8ed7b7c7384205168f27c0df57f4.jpg
 I wanted to use the cardkb from M5stack as general input for my raspberry pi running Kali Linux, 
 At first (being as thorough as usual) I skipped reading the useful information in the user guide for the cardkb and went straight
 into trying to figure out how this device works with the help of gpt3.5 🤷‍♂️.

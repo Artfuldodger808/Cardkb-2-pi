@@ -16,10 +16,10 @@ ascii_to_key = {
     27: 'Escape',
     44: 'Comma',
     46: 'Fullstop',
-    181: 'Direction Pad-Up',
-    182: 'Direction Pad-Down',
-    180: 'Direction Pad-Left',
-    183: 'Direction Pad-Right',
+    181: 'up',
+    182: 'down',
+    180: 'left',
+    183: 'right',
     
     # Add more mappings for other special characters
     48: '0',

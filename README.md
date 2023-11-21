@@ -18,6 +18,7 @@ INSTALLING ON THE PI
 You need to install some requirements to run this program
 
 pip3 install smbus
+
 pip3 install keyboard
 
 Here is an instruction to run the program on boot
@@ -28,7 +29,7 @@ Open the crontab configuration:
 
 crontab -e
 
-Add a line to run your script on boot. For example, if your script is named cardkb_script.py and is located in the home directory, you can add:
+Add a line to run your script on boot. For example, if your script is named cardkb-2-pi.py and is located in the home directory, you can add:
 
 @reboot sudo python3 /home/pi/cardkb-2-pi.py
 
